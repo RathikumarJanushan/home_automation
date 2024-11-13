@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "821306580475",
+    "firebase_url": "https://esp32-7f82e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "esp32-7f82e",
+    "storage_bucket": "esp32-7f82e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821306580475:android:f8af12c903281be3b27f5e",
+        "android_client_info": {
+          "package_name": "com.example.home_automation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6f7qPyMy6Fb0r4jI8nQjHAxA2p5r0E5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
